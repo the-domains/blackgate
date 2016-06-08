@@ -1,0 +1,14 @@
+layout_spectrum: 0.7105263
+typography_spectrum: 0.6106337
+color:
+  saturation: 0.7401549
+  lightness: 0.01366054
+  brandStrength: 1
+  brandColors:
+    - '#000000'
+    - '#FFFFFF'
+    - '#808080'
+    - '#DBDBDB'
+    - '#373737'
+  rhythmicContrast: 0.4762094
+name: Blackgate
